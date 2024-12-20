@@ -1,0 +1,4 @@
+jupyter
+python-dateutil
+python-dotenv
+openai
